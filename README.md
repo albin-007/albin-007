@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Albin<br> MCA graduate and Full Stack Developer passionate about building scalable web applications and solving real-world problems through technology.<br><br>💻 Skilled in Web Technologies : Python, Django, JavaScript,  REST APIs, HTML, and CSS.<br><br>⚡ Fun fact : Coffee, code, and curiosity are my favorite productivity tools. 
+👋 Hi, I'm Albin<br> MCA graduate and Software Developer passionate about building scalable web applications and solving real-world problems through technology.<br><br>💻 Skilled in Web Technologies : Python, Django, JavaScript,  REST APIs, HTML, and CSS.<br><br>⚡ Fun fact : Coffee, code, and curiosity are my favorite productivity tools. 
 
 
 ## 🌐 Socials:
